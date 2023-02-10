@@ -1,1 +1,1 @@
-this script shnages owner and group permissions
+adding execution permissions to subdirectories only

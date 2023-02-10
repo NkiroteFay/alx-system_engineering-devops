@@ -1,1 +1,1 @@
-this script sets mode of the file hello to 753
+this script sets the mode of the file hello as the same as olleh

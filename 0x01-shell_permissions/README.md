@@ -1,1 +1,1 @@
-this script gives execution permissions for all users to only subdirectories
+this script changes both the owner and group permissions for all files and directories

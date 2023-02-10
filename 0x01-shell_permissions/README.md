@@ -1,2 +1,1 @@
-change both owner and group
-this changes permissions to all subdirecories recursively
+this script canges ownership for symbolic links

@@ -1,1 +1,1 @@
-this script canges ownership for symbolic links
+this script changes ownership of the file hello conditionally

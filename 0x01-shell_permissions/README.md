@@ -1,1 +1,1 @@
-this script changes ownership of the file hello conditionally
+this script plays StarWars IV episode on the terminal

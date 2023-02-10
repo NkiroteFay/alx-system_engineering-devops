@@ -1,1 +1,2 @@
-adding execution permissions to subdirectories only
+change both owner and group
+this changes permissions to all subdirecories recursively

@@ -1,1 +1,1 @@
-this script chmages executive permissions fro only subdirectories in current directory for all users
+this script changes group ownership to school for the file hello

@@ -1,1 +1,1 @@
-this script changes group ownership to school for the file hello
+this script gives execution permissions for all users to only subdirectories

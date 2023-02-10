@@ -1,1 +1,1 @@
-this script adds all permissions to others and none to group and owner
+this script sets mode of the file hello to 753

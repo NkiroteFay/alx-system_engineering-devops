@@ -1,1 +1,1 @@
-this script changes user ID
+this script prints effective username of current user

@@ -1,1 +1,1 @@
-this script plays StarWars IV episode on the terminal
+this script plays Stawars on the terminal

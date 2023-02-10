@@ -1,1 +1,1 @@
-this script sets the mode of the file hello as the same as olleh
+this script chmages executive permissions fro only subdirectories in current directory for all users

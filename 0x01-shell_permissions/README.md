@@ -1,1 +1,1 @@
-this script adds multiple permissions to different owners of hello
+this script adds execution permissions to all users

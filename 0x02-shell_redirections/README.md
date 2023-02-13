@@ -1,1 +1,1 @@
-this script redirects standarrd output into a file
+this script only removes regular files in the current directory

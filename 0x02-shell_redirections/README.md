@@ -1,1 +1,1 @@
-this script lsist ther third line in the file
+this script displays only th ehtird line

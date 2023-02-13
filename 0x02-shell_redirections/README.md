@@ -1,1 +1,1 @@
-this script deletes regular files only in the current working directory
+this script deletes all js files only in current directory

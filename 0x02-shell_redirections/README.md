@@ -1,1 +1,1 @@
-this script displays the last 10 lines of a file
+this script displays the first 10 lines of a file

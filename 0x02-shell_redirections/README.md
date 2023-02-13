@@ -1,1 +1,1 @@
-this script displays the third line of a file
+this script redirects standarrd output into a file

@@ -1,0 +1,13 @@
+total 0
+-rw-r--r-- 1 nkirote nkirote    0 Feb 13 17:11 *
+drwxr-xr-x 1 nkirote nkirote 4096 Feb 13 17:16 .
+drwxr-xr-x 1 nkirote nkirote 4096 Feb 13 15:14 ..
+-rwxr--r-- 1 nkirote nkirote   32 Feb 13 15:20 0-hello_world
+-rwxr--r-- 1 nkirote nkirote   28 Feb 13 16:08 2-hellofile
+-rwxr--r-- 1 nkirote nkirote   39 Feb 13 16:25 3-twofiles
+-rwxr--r-- 1 nkirote nkirote   29 Feb 13 16:32 4-lastlines
+-rwxr--r-- 1 nkirote nkirote   29 Feb 13 16:42 5-firstlines
+-rwxr--r-- 1 nkirote nkirote   32 Feb 13 16:46 6-third_line
+-rw-r--r-- 1 nkirote nkirote   76 Feb 13 17:04 7-file
+-rw-r--r-- 1 nkirote nkirote   46 Feb 13 16:47 README.md
+-rw-r--r-- 1 nkirote nkirote    0 Feb 13 17:16 ls-cwd-content

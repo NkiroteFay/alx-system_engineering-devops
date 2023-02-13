@@ -1,1 +1,1 @@
-This script plays Star Wars episode IV on the terminal
+This script creates a directory with specific permissions

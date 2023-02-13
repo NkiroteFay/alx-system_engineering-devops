@@ -1,1 +1,1 @@
-this script disaplsys the contents of the file /etc/passwd
+this script concatenates two files

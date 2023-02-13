@@ -1,1 +1,1 @@
-this script concatenates two files
+this script displays the last 10 lines of a file

@@ -1,1 +1,1 @@
-this script displays the lines with the pattern root and s lines after that
+this script displays all the file lines without a particular pattern

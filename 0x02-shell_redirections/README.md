@@ -1,1 +1,1 @@
-this script lists the 10 newest files
+this script sorts words and prints only those that appear once

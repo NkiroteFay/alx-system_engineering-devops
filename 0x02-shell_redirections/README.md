@@ -1,1 +1,1 @@
-this script replaces characters
+this script deletes specific letters from input

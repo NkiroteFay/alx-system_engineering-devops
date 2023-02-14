@@ -1,1 +1,1 @@
-this script cuts specific fields in a file list
+this script counts number of directories and subdirectories in current directory

@@ -1,1 +1,1 @@
-this script sorts words and prints only those that appear once
+this script displays lines with a particular pattern

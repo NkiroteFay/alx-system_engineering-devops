@@ -1,1 +1,1 @@
-this script displays only th ehtird line
+this script lists the 10 newest files

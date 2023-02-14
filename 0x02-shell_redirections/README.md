@@ -1,1 +1,1 @@
-this script reverses its input
+this scripts cuts specific fields in a file list

@@ -1,1 +1,1 @@
-this script counts number of directories and subdirectories in current directory
+this script deletes all the regular files not directories with js extensioon in cureent directory

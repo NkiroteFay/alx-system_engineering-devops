@@ -1,1 +1,1 @@
-this script displays all the file lines without a particular pattern
+this script displays lines of a file starting with a letter

@@ -1,1 +1,1 @@
-this script counts the number of lines with a particular character
+this script displays the lines with the pattern root and s lines after that

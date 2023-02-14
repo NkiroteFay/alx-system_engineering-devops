@@ -1,1 +1,1 @@
-this script counts only directories in current directory excluding current directory
+this script displays a confused smiley

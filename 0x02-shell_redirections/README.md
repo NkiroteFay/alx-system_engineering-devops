@@ -1,1 +1,1 @@
-this script creates afile with multiple special characters and adds text to it
+this file duplicates the last line of a file

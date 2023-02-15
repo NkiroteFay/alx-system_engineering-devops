@@ -12,3 +12,4 @@ this script converts a binary to a decimal
 this script creates combination of letters with specific format and filter
 this script enables floating of decimals to 2 places
 this script adds a folder to a PATH
+this script counts directories in PATH

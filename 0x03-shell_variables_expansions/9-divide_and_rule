@@ -1,5 +1,2 @@
 #!/bin/bash
-echo $((POWER/DIVIDE))
-
-
-
+echo POWER divided by DIVIDE equals $((42784/32))

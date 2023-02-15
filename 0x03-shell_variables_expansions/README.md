@@ -7,3 +7,4 @@ this script creates a global variable
 this script adds value to a variable stored in the environment variables
 this script prints reuslts of a division on a new line
 this script adds a number to a global variable
+this script carries out exponent operation

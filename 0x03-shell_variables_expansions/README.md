@@ -9,3 +9,4 @@ this script prints reuslts of a division on a new line
 this script adds a number to a global variable
 this script carries out exponent operation
 this script converts a binary to a decimal
+this script creates combination of letters with specific format and filter
